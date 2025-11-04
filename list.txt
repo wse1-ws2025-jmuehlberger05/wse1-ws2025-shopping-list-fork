@@ -2,6 +2,9 @@ aepfel
 birnen
 bier
 leberkaese
+  -normal
+  -kases
+  -pikant
 chips
 wurst
 kaese
