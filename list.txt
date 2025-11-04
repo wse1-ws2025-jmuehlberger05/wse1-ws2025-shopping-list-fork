@@ -10,3 +10,4 @@ kaese
 tomaten
 gurkerl
 paprika
+salat
