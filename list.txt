@@ -16,3 +16,4 @@ paprika
 salat
 brot
 ice
+cola
